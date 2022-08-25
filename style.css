@@ -1,0 +1,43 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    background-color: rgb(214, 129, 129);
+}
+
+main {
+    background-color: lightsalmon;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-align: center;
+    color: black;
+}
+
+.imgCarousel {
+    width: 1000px;
+    height: 600px;
+}
+
+p {
+    font-size: xx-large;
+}
+
+.cardIconCategory image {
+
+    text-align: center;
+    align-items: center;
+}
+
+h6 {
+    text-align: center;
+}
+footer{
+    background-color: rgb(214, 129, 129);
+}
